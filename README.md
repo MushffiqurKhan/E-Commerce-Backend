@@ -63,11 +63,5 @@ PORT =6000
 DB_URL="mongodb://127.0.0.1:27017/E-commerce"
 
 ---
-## 📬 Contact
-
-For any queries or contributions, feel free to connect:
-
-- 🌐 [GitHub](https://github.com/MushffiqurKhan)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mushffiqur-khan-pathan-94b537310)
 
 
